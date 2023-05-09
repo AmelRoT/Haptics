@@ -1,0 +1,11 @@
+[MASTER]
+Type=DS1005
+BoardName=ds1005
+File=positionWithDOB.ppc
+ServiceId=1
+
+[System]
+Version=1.0
+Status=Start
+RTP=MASTER
+SystemType=SingleProcessorSystem

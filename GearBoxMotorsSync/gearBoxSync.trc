@@ -1,0 +1,32 @@
+sampling_period = 0.75E-4
+
+_floating_point_type(64,IEEE)
+_integer_type(32)
+
+
+-- signals available for ControlDesk
+--
+--  signal name         type  address
+
+
+
+
+group "Sync"
+
+	v2_motor			flt
+	v1_motor			flt 
+	i1_ref 				flt 
+	i2_ref 				flt
+	v_ref_s 			flt 
+	ki_s1 				flt 
+	kp_s1 				flt 
+	ki_s2 				flt
+	kp_s2 				flt 
+	position1 			flt 
+	position2 			flt 
+	theta_ref_s 		flt 
+
+endgroup    
+
+
+

@@ -1,0 +1,90 @@
+sampling_period = 0.75E-4
+
+_floating_point_type(64,IEEE)
+_integer_type(32)
+
+
+-- signals available for ControlDesk
+--
+--  signal name         type  address
+
+
+
+
+group "Sync"
+
+	v1_motor			flt 
+	v_ref_s 			flt 
+	position2 			flt 
+	theta_ref_s 		flt 
+	v1_ref 				flt 
+	K_pp 				flt 
+	position1 			flt 
+	theta_ref 			flt 
+	theta_m 			flt 
+	sine_wave 			flt 
+	t1					flt 
+endgroup    
+
+
+
+group "SyncDOB"
+
+	theta_m				flt 
+	theta_m2 			flt 
+	theta_ref 			flt 
+	K_p1 				flt 
+	K_p2 	 			flt 
+	T_dis_read1 		flt 
+	T_dis_read2			flt 
+	v1_motor			flt
+	v2_motor 			flt 
+	error1_plot			flt 
+	error2_plot			flt 
+	T_measured			flt
+	i_friction 			flt 
+
+
+endgroup    
+
+
+group "fric"
+
+	theta_m				flt 
+	theta_m2 			flt 
+	v1_motor			flt
+	v2_motor 			flt 
+	T_measured			flt
+	i_friction 			flt 
+	
+endgroup    
+
+
+
+group "synCVelThetaPI"
+
+	theta_m				flt 
+	theta_m2 			flt 
+	v1_motor			flt
+	v2_motor 			flt 
+	T_measured			flt
+	i_friction 			flt 
+	v_ref				flt
+	theta_ref			flt 
+	Ki1					flt 
+	Ki2					flt 
+	Kp1					flt 
+	Kp2					flt 
+	i1_ref				flt 
+	i2_ref				flt 
+	Kd1 				flt 
+	Kd2					flt 
+	Kp_dobVel			flt 
+	T_dis_vel1			flt 
+	T_dis_vel2			flt 
+	Kp_dobTheta			flt 
+	error_motor1		flt 
+	error_motor2		flt 
+
+endgroup    
+

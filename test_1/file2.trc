@@ -1,0 +1,170 @@
+sampling_period = 0.75E-4
+
+_floating_point_type(64,IEEE)
+_integer_type(32)
+
+
+-- signals available for ControlDesk
+--
+--  signal name         type  address
+
+
+group "Output"
+
+    t          		flt
+    input1     		flt
+    input2     		flt
+	input3     		flt
+    input4     		flt
+    input5     		flt
+    input6     		flt
+	input7     		flt
+    input8     		flt
+    input9     		flt
+    input10     		flt
+    input11     		flt
+    input12     		flt
+    input13     		flt
+    input14     		flt
+	input15     		flt
+    input16     		flt
+    input17     		flt
+    input18     		flt
+	input19     		flt
+    input20     		flt
+    input21     		flt
+    input22     		flt
+	input23     		flt
+    input24     		flt
+    input25     		flt
+    input26     		flt
+	input27     		flt
+    input28     		flt
+    input29     		flt
+    input30     		flt
+	input31     		flt
+    input32     		flt
+	output1    			flt
+	output2    			flt
+	output3    			flt
+	output4    			flt
+	output5    			flt
+	position1 			flt 
+	position2 			flt
+	position3 			flt
+	position4 			flt
+	freq1 				flt
+	freq2				flt
+	v1_motor			flt 
+	vel_track 			flt 
+	error_track 		flt
+	ki 					flt 
+	kp 					flt 
+	v1_ref 				flt 
+	v2_motor			flt 
+	vel_track2 			flt 
+	error_track2 		flt
+	ki2 				flt 
+	kp2 				flt 
+	v2_ref 				flt 
+	dir 				flt 
+	dir2 				flt
+	pos1 				flt 
+	pos2 				flt 
+	theta_m 			flt 
+	theta_ref2			flt 
+	theta_m2			flt 
+	theta_ref			flt 
+	Kp_theta			flt 
+	Kp_theta2			flt 
+	control_enable  int
+	counter         int 
+endgroup    
+
+
+group "Motor1"
+
+	freq1				flt
+	v1_motor			flt 
+	vel_track 			flt 
+	error_track 		flt
+	ki	 				flt 
+	kp 					flt 
+	v1_ref 				flt 
+	dir					flt
+	pos1 				flt 
+	theta_ref			flt 
+	theta_m				flt 
+	Kp_theta			flt 
+	
+endgroup    
+
+
+group "Motor2"
+
+	freq2				flt
+	v2_motor			flt 
+	vel_track2 			flt 
+	error_track2 		flt
+	ki2 				flt 
+	kp2 				flt 
+	v2_ref 				flt 
+	dir2 				flt
+	pos2 				flt 
+	theta_ref2			flt 
+	theta_m2			flt 
+	Kp_theta2			flt 
+
+endgroup    
+
+group "Sync"
+
+	v2_motor			flt
+	v1_motor			flt 
+	i1_ref 				flt 
+	i2_ref 				flt
+	v_ref_s 			flt 
+	ki_s1 				flt 
+	kp_s1 				flt 
+	ki_s2 				flt
+	kp_s2 				flt 
+	theta_m 			flt 
+	theta_m2 			flt 
+	theta_ref_s 		flt 
+
+
+endgroup    
+
+group "LinearMotorSync"
+
+	pos_lm1			flt
+	pos_lm2			flt 
+	theta_lm1 		flt  
+	theta_lm2  		flt 
+	theta_ref_lm 	flt 
+	ki_lm1  		flt 
+	kp_lm1   		flt 
+	ki_lm2   		flt 
+	kp_lm2   		flt 
+	i1_lm_ref 		flt 
+	i2_lm_ref 		flt 
+	
+endgroup    
+
+
+group "LM1"
+
+	theta_ref_lm1 		flt 
+	theta_llm1 			flt 
+	kilm1 				flt 
+	kplm1				flt 
+	indexSignal			flt 
+	subs1 				flt 
+	subTake 			flt 
+endgroup    
+
+
+
+
+
+

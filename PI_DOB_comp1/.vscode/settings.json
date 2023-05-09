@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "pid.h": "c",
+        "dob_vel.h": "c",
+        "dob_theta.h": "c",
+        "readposvel.h": "c"
+    }
+}

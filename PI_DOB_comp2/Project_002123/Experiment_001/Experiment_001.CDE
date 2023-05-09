@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<Root><creator type="key">ControlDesk NG 5.1</creator><experiment><Creator type="key">ControlDesk NG</Creator><Name type="key">Experiment_001.CDE</Name><DisplayName type="key">Experiment_001</DisplayName><Path type="key">.\Experiment_001</Path><Flags type="key">4096</Flags><Type type="key">2</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:44:56 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">32178809</UniqueID><EntityID type="key">{B74952E6-A2A3-45AA-8BA3-68A448C8541F}</EntityID><ItemInfoDate type="key">4/13/2023 2:44:56 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor><item><Targets type="key">experiment</Targets><Name type="key">Experiment_001</Name><DisplayName type="key">Experiment_001</DisplayName><Path type="key">..</Path><Flags type="key">4100</Flags><Type type="key">3</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:44:56 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">649593623</UniqueID><EntityID type="key">{C78B8ADF-CFD7-4110-BB37-9934E16042DA}</EntityID><ItemInfoDate type="key">4/13/2023 2:44:56 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor><item><Targets type="key">instrumentation</Targets><Name type="key">Experiment Layouts</Name><DisplayName type="key">Experiment Layouts</DisplayName><Path type="key">.</Path><ExtendedFlags type="key">128</ExtendedFlags><Type type="key">3</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:44:56 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">571862602</UniqueID><EntityID type="key">{DDAC0A3D-A8E8-4A11-BBAA-7C73345877E8}</EntityID><ItemInfoDate type="key">4/13/2023 2:44:56 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor><item><Name type="key">Experiment_001.cdc</Name><DisplayName type="key">Experiment_001.cdc</DisplayName><Path type="key">.\Experiment Layouts</Path><Flags type="key">4100</Flags><Type type="key">4</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:44:56 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">857011825</UniqueID><EntityID type="key">{574B4509-9259-4EC6-8809-392E38C455A3}</EntityID><ItemInfoDate type="key">4/13/2023 2:44:56 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor></item><item><Component type="key">Instrumentation</Component><Name type="key">Layout1.lay</Name><DisplayName type="key">Layout1.lay</DisplayName><Path type="key">.\Experiment Layouts</Path><Flags type="key">16448</Flags><Type type="key">10</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:44:57 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">120742757</UniqueID><EntityID type="key">{C8349FD6-4E41-4C49-91B8-2556D20B227D}</EntityID><ItemInfoDate type="key">4/13/2023 2:44:57 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor></item></item><item><Targets type="key">devicemanagement,platformmanagement,diagnosticsmanagement</Targets><Name type="key">Hardware Configurations</Name><DisplayName type="key">Hardware Configurations</DisplayName><Path type="key">.</Path><Type type="key">3</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:44:56 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">140915687</UniqueID><EntityID type="key">{D244D75F-556C-4041-AF03-ADE4B1BF5692}</EntityID><ItemInfoDate type="key">4/13/2023 2:44:56 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor><item><Component type="key">PlatformManagement</Component><Targets type="key">Device::8dcc5c1c-0c93-4182-9348-be12146ca73e</Targets><RestoreInfopmdn type="key">Platform</RestoreInfopmdn><RestoreInfopmid type="key">8dcc5c1c-0c93-4182-9348-be12146ca73e</RestoreInfopmid><Name type="key">8dcc5c1c-0c93-4182-9348-be12146ca73e</Name><DisplayName type="key">Platform [DS1005 PPC Board, assigned to 'ds1005']</DisplayName><Flags type="key">128</Flags><Type type="key">6</Type><ItemInfo type="key">Author: iuslab
+Date: 4/13/2023 2:44:58 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">538277886</UniqueID><EntityID type="key">{3A563510-16EC-4E5E-A2EE-116F4815B675}</EntityID><ItemInfoDate type="key">4/13/2023 2:44:58 PM</ItemInfoDate><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor><item><Component type="key">VariablesManagement</Component><Targets type="key">,VariableDescription::positionWithDOB.sdf</Targets><Flags type="key">18736</Flags><ExtendedFlags type="key">1</ExtendedFlags><UniqueID type="key">996391893</UniqueID><LinkedItem type="key">166148776</LinkedItem></item></item></item><item><Targets type="key">datasetmanager</Targets><Name type="key">Data Sets</Name><DisplayName type="key">Data Sets</DisplayName><Path type="key">.</Path><Flags type="key">4</Flags><Type type="key">3</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:44:56 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">327930293</UniqueID><EntityID type="key">{8E355D69-6F53-4CA7-AF6D-18C5AC00096F}</EntityID><ItemInfoDate type="key">4/13/2023 2:44:56 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor></item><item><Targets type="key">measuredatamanagement</Targets><Name type="key">Measurement Data</Name><DisplayName type="key">Measurement Data</DisplayName><Path type="key">.</Path><ExtendedFlags type="key">128</ExtendedFlags><Type type="key">3</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:44:56 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">176147430</UniqueID><EntityID type="key">{88967363-F6D3-4A4A-AB20-3437C656A383}</EntityID><ItemInfoDate type="key">4/13/2023 2:44:56 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor><item><Component type="key">MeasureDataManagement</Component><Name type="key">cv.vxf</Name><DisplayName type="key">cv.vxf</DisplayName><Path type="key">.\Measurement Data</Path><Flags type="key">4</Flags><Type type="key">4</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:44:58 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">1019809738</UniqueID><EntityID type="key">{025D0D87-B557-4EDB-B206-44B714FFFBC6}</EntityID><ItemInfoDate type="key">4/13/2023 2:44:58 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor></item></item><item><Targets type="key">.rtf,.pdf,.html,.xml,.txt,.csv</Targets><Docs type="key">.rtf,.pdf,.html,.txt,.csv</Docs><Name type="key">Reports</Name><DisplayName type="key">Reports</DisplayName><Path type="key">.</Path><Type type="key">3</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:44:56 PM
+This folder lists documents of type: .rtf,.pdf,.html,.txt,.csv
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">721928943</UniqueID><EntityID type="key">{E27DCF27-A206-4D5D-91E9-71A11CF092B9}</EntityID><ItemInfoDate type="key">4/13/2023 2:44:56 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDocs type="key">.rtf,.pdf,.html,.txt,.csv</ItemInfoDocs><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor></item><item><Targets type="key">failuresimulation</Targets><Name type="key">Failure Simulation</Name><DisplayName type="key">Failure Simulation</DisplayName><Path type="key">.</Path><Type type="key">3</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:44:56 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">990124951</UniqueID><EntityID type="key">{9E1D2186-1D12-45B2-B0AB-1E41F335F3B2}</EntityID><ItemInfoDate type="key">4/13/2023 2:44:56 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor></item><item><Targets type="key">interpreter,.py</Targets><Docs type="key">.py</Docs><Name type="key">Python Scripts</Name><DisplayName type="key">Python Scripts</DisplayName><Path type="key">.</Path><Type type="key">3</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:44:56 PM
+This folder lists documents of type: .py
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">593915214</UniqueID><EntityID type="key">{3C746BD7-906E-4D5D-BA44-BB50A727C447}</EntityID><ItemInfoDate type="key">4/13/2023 2:44:56 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDocs type="key">.py</ItemInfoDocs><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor></item></item></experiment><UserManager/><VariablesManagement Version="4"><LabelList/></VariablesManagement><ProjectExperiment/><MeasuredDataNavigator><SyncCursorEnabledSL type="key">0</SyncCursorEnabledSL><SyncCursorPosSL type="key">0</SyncCursorPosSL><CursorEnabledSL type="key">0</CursorEnabledSL><CursorPositionLeftSL type="key">5</CursorPositionLeftSL><CursorPositionRightSL type="key">5</CursorPositionRightSL><VisibleLengthSL type="key">10</VisibleLengthSL><LastVisibleValueSL type="key">10</LastVisibleValueSL><CompleteBufferVisibleSL type="key">0</CompleteBufferVisibleSL><GridEnabledSL type="key">0</GridEnabledSL></MeasuredDataNavigator><MeasureDataManagement Version="4"><TriggerRules><Version type="key">2</Version></TriggerRules><BookmarkTypes><BookmarkType><TypeID type="key">1</TypeID><RecordingActive type="key">1</RecordingActive><VisualizationActive type="key">1</VisualizationActive></BookmarkType><BookmarkType><TypeID type="key">2</TypeID><RecordingActive type="key">1</RecordingActive><VisualizationActive type="key">1</VisualizationActive></BookmarkType><BookmarkType><TypeID type="key">3</TypeID><RecordingActive type="key">1</RecordingActive><VisualizationActive type="key">1</VisualizationActive></BookmarkType><BookmarkType><TypeID type="key">4</TypeID><RecordingActive type="key">1</RecordingActive><VisualizationActive type="key">1</VisualizationActive></BookmarkType><BookmarkType><TypeID type="key">5</TypeID><RecordingActive type="key">0</RecordingActive><VisualizationActive type="key">0</VisualizationActive></BookmarkType><BookmarkType><TypeID type="key">6</TypeID><RecordingActive type="key">0</RecordingActive><VisualizationActive type="key">0</VisualizationActive></BookmarkType><BookmarkType><TypeID type="key">8</TypeID><RecordingActive type="key">1</RecordingActive><VisualizationActive type="key">1</VisualizationActive></BookmarkType><BookmarkType><TypeID type="key">9</TypeID><RecordingActive type="key">1</RecordingActive><VisualizationActive type="key">1</VisualizationActive></BookmarkType><BookmarkType><TypeID type="key">10</TypeID><RecordingActive type="key">1</RecordingActive><VisualizationActive type="key">1</VisualizationActive></BookmarkType><BookmarkType><TypeID type="key">11</TypeID><RecordingActive type="key">1</RecordingActive><VisualizationActive type="key">1</VisualizationActive></BookmarkType></BookmarkTypes><ProjectExperimentSettings><ShowMeasurementLinks type="key">0</ShowMeasurementLinks></ProjectExperimentSettings><MeasurementConfiguration><NextUniqueKey type="key">4</NextUniqueKey><SignalList/><Platforms><Platform><Name type="key">8dcc5c1c-0c93-4182-9348-be12146ca73e</Name><DefaultRaster type="key">Service(#0)</DefaultRaster><PlatformTriggers/><Rasters><PlatformTriggered><Name type="key">Service(#0)</Name><AutoRepeatEnabled type="key">1</AutoRepeatEnabled><MultiCaptureHistoryEnabled type="key">0</MultiCaptureHistoryEnabled><DownsamplingFactor type="key">1</DownsamplingFactor><StartTrigger type="key">2</StartTrigger><StopTrigger type="key">3</StopTrigger></PlatformTriggered></Rasters><EnabledHardwarePollingRasters/></Platform></Platforms><DurationTriggers><DurationTrigger><UniqueKey type="key">3</UniqueKey><Name type="key">Duration Trigger 1</Name><Delay type="key">0</Delay><Duration type="key">0.01</Duration><Enabled type="key">-1</Enabled></DurationTrigger></DurationTriggers><SampleCountTriggers/><Acquisition><MeasurementBufferSize type="key">60</MeasurementBufferSize><BufferOverflowWarningEnabled type="key">0</BufferOverflowWarningEnabled><BufferOverflowWarningTime type="key">10</BufferOverflowWarningTime><SaveMeasurementBuffer><AddToExperimentEnabled type="key">-1</AddToExperimentEnabled><AutomaticSaveDialogEnabled type="key">0</AutomaticSaveDialogEnabled><AutomaticExportEnabled type="key">0</AutomaticExportEnabled><AutomaticExportFileNamePrefix type="key">bufexp_</AutomaticExportFileNamePrefix><AutomaticExportFileType type="key">IDF Files (*.idf)</AutomaticExportFileType><AutomaticExportFolder type="key"></AutomaticExportFolder><AutomaticNamingEnabled type="key">-1</AutomaticNamingEnabled><AutomaticNamingMinimunDigits type="key">3</AutomaticNamingMinimunDigits><AutomaticNamingStartIndex type="key">1</AutomaticNamingStartIndex><Description type="key"></Description><FileNamePrefix type="key">buf_</FileNamePrefix><OpenInMeasurementDataPoolEnabled type="key">0</OpenInMeasurementDataPoolEnabled></SaveMeasurementBuffer><SaveDisplayedData><AddToExperimentEnabled type="key">-1</AddToExperimentEnabled><AutomaticSaveDialogEnabled type="key">0</AutomaticSaveDialogEnabled><AutomaticExportEnabled type="key">0</AutomaticExportEnabled><AutomaticExportFileNamePrefix type="key">sddexp_</AutomaticExportFileNamePrefix><AutomaticExportFileType type="key">IDF Files (*.idf)</AutomaticExportFileType><AutomaticExportFolder type="key"></AutomaticExportFolder><AutomaticNamingEnabled type="key">-1</AutomaticNamingEnabled><AutomaticNamingMinimunDigits type="key">3</AutomaticNamingMinimunDigits><AutomaticNamingStartIndex type="key">1</AutomaticNamingStartIndex><Description type="key"></Description><FileNamePrefix type="key">sdd_</FileNamePrefix><OpenInMeasurementDataPoolEnabled type="key">0</OpenInMeasurementDataPoolEnabled></SaveDisplayedData><SaveFlightRecorderData><AddToExperimentEnabled type="key">-1</AddToExperimentEnabled><AutomaticSaveDialogEnabled type="key">0</AutomaticSaveDialogEnabled><AutomaticExportEnabled type="key">0</AutomaticExportEnabled><AutomaticExportFileNamePrefix type="key">flightrecexp_</AutomaticExportFileNamePrefix><AutomaticExportFileType type="key">IDF Files (*.idf)</AutomaticExportFileType><AutomaticExportFolder type="key"></AutomaticExportFolder><AutomaticNamingEnabled type="key">-1</AutomaticNamingEnabled><AutomaticNamingMinimunDigits type="key">3</AutomaticNamingMinimunDigits><AutomaticNamingStartIndex type="key">1</AutomaticNamingStartIndex><Description type="key"></Description><FileNamePrefix type="key">flightrec_</FileNamePrefix><OpenInMeasurementDataPoolEnabled type="key">0</OpenInMeasurementDataPoolEnabled></SaveFlightRecorderData></Acquisition><Recorders><Recorder><Name type="key">Recorder 1</Name><UniqueKey type="key">1</UniqueKey><AutomaticSignalConfigurationEnabled type="key">-1</AutomaticSignalConfigurationEnabled><WriteToFileEnabled type="key">-1</WriteToFileEnabled><MeasurementTimestampsEnabled type="key">0</MeasurementTimestampsEnabled><StartAudioSignalEnabled type="key">0</StartAudioSignalEnabled><StopAudioSignalEnabled type="key">0</StopAudioSignalEnabled><Active type="key">-1</Active><StartCondition><Enabled type="key">0</Enabled><RecordingCycleCount type="key">1</RecordingCycleCount><SelectedTriggerRule type="key"></SelectedTriggerRule><TriggerDelay type="key">0</TriggerDelay></StartCondition><StopCondition><RecordingStopWarningEnabled type="key">0</RecordingStopWarningEnabled><RecordingStopWarningTime type="key">60</RecordingStopWarningTime><SelectedTriggerRule type="key"></SelectedTriggerRule><Type type="key">0</Type><TimeLimit type="key">3600</TimeLimit><TriggerDelay type="key">0</TriggerDelay></StopCondition><StorageInformation><AddToExperimentEnabled type="key">-1</AddToExperimentEnabled><AutomaticSaveDialogEnabled type="key">0</AutomaticSaveDialogEnabled><AutomaticExportEnabled type="key">0</AutomaticExportEnabled><AutomaticExportFileNamePrefix type="key">exp1_</AutomaticExportFileNamePrefix><AutomaticExportFileType type="key">IDF Files (*.idf)</AutomaticExportFileType><AutomaticExportFolder type="key"></AutomaticExportFolder><AutomaticNamingEnabled type="key">-1</AutomaticNamingEnabled><AutomaticNamingMinimunDigits type="key">3</AutomaticNamingMinimunDigits><AutomaticNamingStartIndex type="key">1</AutomaticNamingStartIndex><Description type="key"></Description><FileNamePrefix type="key">rec1_</FileNamePrefix><OpenInMeasurementDataPoolEnabled type="key">0</OpenInMeasurementDataPoolEnabled></StorageInformation><SignalList/></Recorder></Recorders></MeasurementConfiguration></MeasureDataManagement><Instrumentation><UniqueIds Version="1"><Count type="key">1</Count><File1 type="key">Layout1</File1><Id1 type="key">0</Id1></UniqueIds></Instrumentation><DiagnosticsManagement/><PlatformManagement Version="4"><SimulationTimeGroupSupported type="key">-1</SimulationTimeGroupSupported><DeviceFactory><Device><DeviceName type="key">8dcc5c1c-0c93-4182-9348-be12146ca73e</DeviceName><DisplayName type="key">Platform</DisplayName><DeviceType type="key">130</DeviceType><DeviceConfiguration/><AssignmentConfiguration><AssignmentInfo><AliasName type="key"></AliasName><BoardName type="key"></BoardName><ConnectionType type="key">0</ConnectionType><MACAddress type="key"></MACAddress><Mode type="key">1</Mode><NetClient type="key"></NetClient><PlatformType type="key">3</PlatformType><PortAddress type="key">768</PortAddress><ProcessorName type="key"></ProcessorName><SerialNumber type="key"></SerialNumber><TopologyCheck type="key">0</TopologyCheck></AssignmentInfo></AssignmentConfiguration><GeneralSettings><StartOnlineCalibrationBehavior type="key">5</StartOnlineCalibrationBehavior><DeviceEnableResynchonisation type="key">1</DeviceEnableResynchonisation><MeasurementService type="key">0</MeasurementService></GeneralSettings><SubstituteFactory/></Device></DeviceFactory></PlatformManagement><DataSetManager><Version><Version type="key">2</Version></Version><Work/><ActiveWork/><Reference/><ActiveReference/><Master/><ActiveMaster/><InitialMaster/><Incomplete/><IncompleteReadonly/><DataSet/><Readonly/><LabelListFilter><LabelListFilterFile type="key"></LabelListFilterFile><LabelListFilterActive type="key">0</LabelListFilterActive></LabelListFilter><AutomaticDownload/></DataSetManager></Root>

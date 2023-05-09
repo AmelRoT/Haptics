@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<Root><creator type="key">ControlDesk NG 5.1</creator><project><Creator type="key">ControlDesk NG</Creator><Name type="key">Project_001.CDP</Name><DisplayName type="key">Project_001</DisplayName><Flags type="key">4096</Flags><Type type="key">1</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:29:35 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">986517069</UniqueID><EntityID type="key">{6EE11736-573E-4ABC-B20A-E0AD872F46C0}</EntityID><ItemInfoDate type="key">4/13/2023 2:29:35 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor><item><Targets type="key">project</Targets><Name type="key">Project_001</Name><DisplayName type="key">Project_001</DisplayName><Path type="key">..</Path><Flags type="key">4100</Flags><Type type="key">3</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:29:35 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">626007384</UniqueID><EntityID type="key">{656FCD79-4227-43AC-930D-A1B7F1CF170E}</EntityID><ItemInfoDate type="key">4/13/2023 2:29:35 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor><item><Docs type="key">.doc,.docx,.pdf</Docs><Name type="key">Specifications</Name><DisplayName type="key">Specifications</DisplayName><Path type="key">.</Path><Type type="key">3</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:29:35 PM
+This folder lists documents of type: .doc,.docx,.pdf
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">159070193</UniqueID><EntityID type="key">{E35D5175-CAA2-46F8-9E8F-94351F29B24E}</EntityID><ItemInfoDate type="key">4/13/2023 2:29:35 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDocs type="key">.doc,.docx,.pdf</ItemInfoDocs><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor></item><item><Docs type="key">.mpp</Docs><Name type="key">Project Plans</Name><DisplayName type="key">Project Plans</DisplayName><Path type="key">.</Path><Type type="key">3</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:29:35 PM
+This folder lists documents of type: .mpp
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">875551922</UniqueID><EntityID type="key">{2F9CE63B-946F-4973-93CE-051B3889906C}</EntityID><ItemInfoDate type="key">4/13/2023 2:29:35 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDocs type="key">.mpp</ItemInfoDocs><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor></item><item><Targets type="key">datasetmanager_global</Targets><Name type="key">Global Data Sets</Name><DisplayName type="key">Global Data Sets</DisplayName><Path type="key">.</Path><Type type="key">3</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:29:35 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">837517049</UniqueID><EntityID type="key">{6E97FAC8-A798-4932-8529-779B3E1DFF45}</EntityID><ItemInfoDate type="key">4/13/2023 2:29:35 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor></item><item><Targets type="key">variablesmanagement</Targets><Name type="key">Variable Descriptions</Name><DisplayName type="key">Variable Descriptions</DisplayName><Path type="key">.</Path><Flags type="key">256</Flags><Type type="key">3</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:29:35 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">294714566</UniqueID><EntityID type="key">{49255246-3744-4C56-A6C2-B529EC4C278A}</EntityID><ItemInfoDate type="key">4/13/2023 2:29:35 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor><item><Component type="key">VariablesManagement</Component><Name type="key">Project_001.vdb</Name><DisplayName type="key">C:\Users\iuslab\Desktop\DC_motor_control\PI_DOB_comp1\Project_001\Variable Descriptions\Project_001.vdb</DisplayName><Path type="key">.\Variable Descriptions</Path><Flags type="key">276</Flags><Type type="key">18</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:29:38 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">483102609</UniqueID><EntityID type="key">{C336F3CC-D230-4F0E-BAA7-DABF9FB9E8E6}</EntityID><ItemInfoDate type="key">4/13/2023 2:29:38 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor></item><item><Component type="key">VariablesManagement</Component><Name type="key">dob_pi_comp.sdf</Name><DisplayName type="key">dob_pi_comp.sdf</DisplayName><Path type="key">.\Variable Descriptions\dob_pi_comp.sdf</Path><Flags type="key">18688</Flags><Type type="key">7</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:29:38 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">1028549065</UniqueID><EntityID type="key">{CE7F7930-8971-4F2B-B096-324D515BDA72}</EntityID><ItemInfoDate type="key">4/13/2023 2:29:38 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoLog type="key">
+Original file added from C:\Users\iuslab\Desktop\DC_motor_control\PI_DOB_comp1\dob_pi_comp.sdf [2023-3-25 12:34:30 (UTC)]
+</ItemInfoLog><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor><item><Component type="key">VariablesManagement</Component><Name type="key">dob_pi_comp.trc</Name><DisplayName type="key">dob_pi_comp.trc</DisplayName><Path type="key">.\Variable Descriptions\dob_pi_comp.sdf</Path><Flags type="key">18692</Flags><Type type="key">4</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:29:38 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">1054887366</UniqueID><EntityID type="key">{4DA91E09-49B8-4001-AEEC-7149C44268DB}</EntityID><ItemInfoDate type="key">4/13/2023 2:29:38 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor></item><item><Component type="key">VariablesManagement</Component><Name type="key">dob_pi_comp.map</Name><DisplayName type="key">dob_pi_comp.map</DisplayName><Path type="key">.\Variable Descriptions\dob_pi_comp.sdf</Path><Flags type="key">18692</Flags><Type type="key">4</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:29:38 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">787525442</UniqueID><EntityID type="key">{72372CD0-A276-440C-AA57-1C4A933321D6}</EntityID><ItemInfoDate type="key">4/13/2023 2:29:38 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor></item><item><Component type="key">VariablesManagement</Component><Name type="key">dob_pi_comp.ppc</Name><DisplayName type="key">dob_pi_comp.ppc</DisplayName><Path type="key">.\Variable Descriptions\dob_pi_comp.sdf</Path><Flags type="key">18692</Flags><Type type="key">30</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:29:38 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">307963489</UniqueID><EntityID type="key">{43706A77-ED99-409F-B52B-08FE0DDB9CD6}</EntityID><ItemInfoDate type="key">4/13/2023 2:29:38 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor></item></item></item><item><Targets type="key">datasetmanager</Targets><Name type="key">Data Sets</Name><DisplayName type="key">Data Sets</DisplayName><Path type="key">.</Path><Flags type="key">4</Flags><Type type="key">3</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:29:35 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">503420189</UniqueID><EntityID type="key">{E00BCE8D-BF62-4E62-812B-8AE40F6A4DCC}</EntityID><ItemInfoDate type="key">4/13/2023 2:29:35 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor></item><item><Targets type="key">.lab</Targets><Docs type="key">.lab,.txt</Docs><Name type="key">Label Lists</Name><DisplayName type="key">Label Lists</DisplayName><Path type="key">.</Path><Type type="key">3</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:29:35 PM
+This folder lists documents of type: .lab,.txt
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">937041324</UniqueID><EntityID type="key">{AF651E26-AE90-474A-90D6-919804E9624B}</EntityID><ItemInfoDate type="key">4/13/2023 2:29:35 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDocs type="key">.lab,.txt</ItemInfoDocs><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor></item><item><Targets type="key">devicemanagement,platformmanagement</Targets><Name type="key">Global Devices</Name><DisplayName type="key">Global Devices</DisplayName><Path type="key">.</Path><Type type="key">3</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:29:35 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">424098734</UniqueID><EntityID type="key">{E02EBDBD-E74E-464C-A346-25CB2503B449}</EntityID><ItemInfoDate type="key">4/13/2023 2:29:35 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor></item><item><Targets type="key">interpreter,.py</Targets><Docs type="key">.py</Docs><Name type="key">Python Scripts</Name><DisplayName type="key">Python Scripts</DisplayName><Path type="key">.</Path><Type type="key">3</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:29:35 PM
+This folder lists documents of type: .py
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">772056079</UniqueID><EntityID type="key">{1567F123-E459-4672-8A11-4BD9F84F8111}</EntityID><ItemInfoDate type="key">4/13/2023 2:29:35 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDocs type="key">.py</ItemInfoDocs><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor></item><item><Component type="key">BusNavigator</Component><Targets type="key">BusNavigator</Targets><Name type="key">busnavigator</Name><DisplayName type="key">BusNavigator</DisplayName><Path type="key">.</Path><Flags type="key">4</Flags><Type type="key">3</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:29:35 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">343677228</UniqueID><EntityID type="key">{27CAC47E-B58A-43B4-9F13-99DC546527BD}</EntityID><ItemInfoDate type="key">4/13/2023 2:29:35 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor></item></item></project><experiments><experiment><Creator type="key">ControlDesk NG</Creator><Name type="key">Experiment_001123.CDE</Name><DisplayName type="key">Experiment_001123</DisplayName><Path type="key">.\Experiment_001123</Path><Flags type="key">4104</Flags><Type type="key">2</Type><ItemInfo type="key">Location: $FPATH$
+Author: iuslab
+Date: 4/13/2023 2:29:35 PM
+Original location: 
+/HDR/================================
+Description:
+
+================================
+</ItemInfo><UniqueID type="key">697279384</UniqueID><ItemInfoDate type="key">4/13/2023 2:29:35 PM</ItemInfoDate><ItemInfoPath type="key">$FPATH$</ItemInfoPath><ItemInfoDescr type="key"></ItemInfoDescr><ItemInfoAddInfoDb type="key"></ItemInfoAddInfoDb><ItemInfoAuthor type="key">iuslab</ItemInfoAuthor></experiment></experiments><UserManager/><VariablesManagement Version="4"><CreatorVersion type="key">405000440</CreatorVersion></VariablesManagement><ProjectExperiment><LastActiveExperiment type="key">Experiment_001123</LastActiveExperiment></ProjectExperiment><MeasuredDataNavigator/><MeasureDataManagement Version="4"/><Instrumentation/><DiagnosticsManagement/><PlatformManagement Version="4"/><DataSetManager><Version><Version type="key">2</Version></Version><Work/><ActiveWork/><Reference/><ActiveReference/><Master/><ActiveMaster/><InitialMaster/><Incomplete/><IncompleteReadonly/><DataSet/><Readonly/><LabelListFilter><LabelListFilterFile type="key"></LabelListFilterFile><LabelListFilterActive type="key">0</LabelListFilterActive></LabelListFilter><AutomaticDownload/></DataSetManager></Root>

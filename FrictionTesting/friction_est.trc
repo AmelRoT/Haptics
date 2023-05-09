@@ -1,0 +1,62 @@
+sampling_period = 0.75E-4
+
+_floating_point_type(64,IEEE)
+_integer_type(32)
+
+
+-- signals available for ControlDesk
+--
+--  signal name         type  address
+
+
+
+
+group "Sync"
+
+	v1_motor			flt 
+	v_ref_s 			flt 
+	position2 			flt 
+	theta_ref_s 		flt 
+	v1_ref 				flt 
+	K_pp 				flt 
+	position1 			flt 
+	theta_ref 			flt 
+	theta_m 			flt 
+	sine_wave 			flt 
+	t1					flt 
+	adjust	 			flt
+	theta_BL1			flt 
+endgroup    
+
+
+
+group "SyncDOB"
+
+	theta_m				flt 
+	theta_m2 			flt 
+	theta_ref 			flt 
+	Kp1 			    flt 
+	Ki1 	 		    flt 
+	i_out_read	 		flt 
+endgroup  
+
+group "friction"
+
+	theta_m				flt 
+	theta_m2 			flt 
+	theta_ref 			flt 
+	K_p_sigma1 			flt 
+	C11 	 			flt 
+	v1_motor			flt
+	v2_motor 			flt 
+	K_p_sigma2 			flt 
+	C22 	 			flt 
+	sat_sigma			flt 
+	f_env_read			flt 
+	i_sine_friction		flt 
+	var1				flt 
+	i_sine_friction2	flt 
+	changeG 			flt 
+endgroup    
+
+
